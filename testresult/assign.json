@@ -1,0 +1,5 @@
+[
+{"name":"tests/assign/tassign.nim c","category":"assign","target":"c","action":"run","result":"reJoined","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/assign/tobject_assign.nim c","category":"assign","target":"c","action":"run","result":"reJoined","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/assign/toverload_asgn2.nim c","category":"assign","target":"c","action":"run","result":"reDisabled","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/assign/tvariantasgn.nim c","category":"assign","target":"c","action":"run","result":"reJoined","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"}]

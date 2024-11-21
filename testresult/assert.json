@@ -1,0 +1,7 @@
+[
+{"name":"tests/assert/t21195.nim c --verbosity:0 --os:standalone --mm:none","category":"assert","target":"c","action":"run","result":"reSuccess","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/assert/tassert.nim c","category":"assert","target":"c","action":"run","result":"reSuccess","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/assert/tassert2.nim c","category":"assert","target":"c","action":"run","result":"reSuccess","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/assert/tassert_c.nim c -d:nimPreviewSlimSystem --stackTrace:on --excessiveStackTrace:off","category":"assert","target":"c","action":"run","result":"reSuccess","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/assert/tunittests.nim c","category":"assert","target":"c","action":"run","result":"reSuccess","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/assert/tuserassert.nim c","category":"assert","target":"c","action":"run","result":"reSuccess","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"}]

@@ -1,0 +1,5 @@
+[
+{"name":"tests/nimble/tnimblepath.nim c","category":"nimble","target":"c","action":"run","result":"reSuccess","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/nimble/tnimblepathdollar.nim c","category":"nimble","target":"c","action":"run","result":"reSuccess","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/nimble/tnimblepathdollar_fault.nim c","category":"nimble","target":"c","action":"reject","result":"reSuccess","expected":"cannot open file: pkgA/module","given":"cannot open file: pkgA/module","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/nimble/tnimblepathlink.nim c","category":"nimble","target":"c","action":"run","result":"reSuccess","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"}]

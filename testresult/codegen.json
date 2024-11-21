@@ -1,0 +1,2 @@
+[
+{"name":"tests/codegen/titaniummangle.nim c --debugger:native","category":"codegen","target":"c","action":"run","result":"reSuccess","expected":"'_ZN14titaniummangle8testFuncE9ContainerI10Container2I5int325int32EE'","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"}]

@@ -1,0 +1,2 @@
+[
+{"name":"tests/astspec/tastspec.nim c","category":"astspec","target":"c","action":"compile","result":"reSuccess","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"}]

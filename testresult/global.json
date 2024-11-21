@@ -1,0 +1,8 @@
+[
+{"name":"tests/global/t15005.nim c","category":"global","target":"c","action":"run","result":"reJoined","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/global/t21896.nim c","category":"global","target":"c","action":"reject","result":"reSuccess","expected":"cannot assign local to global variable","given":"cannot assign local to global variable","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/global/t3505.nim c","category":"global","target":"c","action":"reject","result":"reSuccess","expected":"","given":"cannot assign local to global variable","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/global/t5958.nim c","category":"global","target":"c","action":"reject","result":"reSuccess","expected":"undeclared identifier: 'a'","given":"undeclared identifier: 'a'","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/global/tglobal.nim c","category":"global","target":"c","action":"run","result":"reDisabled","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/global/tglobal2.nim c","category":"global","target":"c","action":"run","result":"reJoined","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/global/tglobalforvar.nim c","category":"global","target":"c","action":"run","result":"reJoined","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"}]

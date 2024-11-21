@@ -1,0 +1,9 @@
+[
+{"name":"tests/showoff/tdrdobbs_examples.nim c","category":"showoff","target":"c","action":"run","result":"reJoined","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/showoff/tformatopt.nim c","category":"showoff","target":"c","action":"run","result":"reJoined","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/showoff/tgenericmacrotypes.nim c","category":"showoff","target":"c","action":"run","result":"reJoined","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/showoff/thello2.nim c","category":"showoff","target":"c","action":"run","result":"reJoined","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/showoff/thtml1.nim c","category":"showoff","target":"c","action":"run","result":"reJoined","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/showoff/thtml2.nim c","category":"showoff","target":"c","action":"run","result":"reJoined","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/showoff/tonce.nim c","category":"showoff","target":"c","action":"run","result":"reJoined","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/showoff/tquasiquote.nim c","category":"showoff","target":"c","action":"run","result":"reSuccess","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"}]

@@ -1,0 +1,5 @@
+[
+{"name":"tests/import/t21496.nim c","category":"import","target":"c","action":"reject","result":"reSuccess","expected":"ambiguous identifier: 'm21496'","given":"ambiguous identifier: 'm21496'","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/import/t22065.nim c","category":"import","target":"c","action":"reject","result":"reSuccess","expected":"cannot open file: ./sugar","given":"cannot open file: ./sugar","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/import/t22208.nim c","category":"import","target":"c","action":"run","result":"reJoined","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/import/t23167.nim c","category":"import","target":"c","action":"run","result":"reJoined","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"}]

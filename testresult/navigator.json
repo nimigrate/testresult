@@ -1,0 +1,3 @@
+[
+{"name":"tests/navigator/tincludefile_temp.nim c  --ic:on -d:nimIcNavigatorTests --hint:Conf:off --warnings:off","category":"navigator","target":"c","action":"compile","result":"reDisabled","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/navigator/tnav1_temp.nim c  --ic:on -d:nimIcNavigatorTests --hint:Conf:off --warnings:off","category":"navigator","target":"c","action":"compile","result":"reDisabled","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"}]

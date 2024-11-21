@@ -1,0 +1,4 @@
+[
+{"name":"tests/cast/tcast.nim c","category":"cast","target":"c","action":"run","result":"reSuccess","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/cast/tcast.nim cpp","category":"cast","target":"cpp","action":"run","result":"reSuccess","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/cast/tcast.nim js","category":"cast","target":"js","action":"run","result":"reSuccess","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"}]

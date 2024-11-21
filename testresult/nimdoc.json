@@ -1,0 +1,4 @@
+[
+{"name":"tests/nimdoc/t15916.nim c","category":"nimdoc","target":"c","action":"compile","result":"reSuccess","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/nimdoc/t17615.nim c","category":"nimdoc","target":"c","action":"reject","result":"reSuccess","expected":"runnableExamples must appear before the first non-comment statement","given":"runnableExamples must appear before the first non-comment statement","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/nimdoc/trunnableexamples.nim c","category":"nimdoc","target":"c","action":"compile","result":"reSuccess","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"}]

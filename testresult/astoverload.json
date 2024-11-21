@@ -1,0 +1,2 @@
+[
+{"name":"tests/astoverload/tastoverload1.nim c","category":"astoverload","target":"c","action":"run","result":"reJoined","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"}]

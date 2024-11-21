@@ -1,0 +1,3 @@
+[
+{"name":"tests/alloc/tmembug.nim c","category":"alloc","target":"c","action":"run","result":"reSuccess","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/alloc/tmembug2.nim c","category":"alloc","target":"c","action":"run","result":"reDisabled","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"}]

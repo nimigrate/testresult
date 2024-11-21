@@ -1,0 +1,4 @@
+[
+{"name":"tests/align/talign.nim c","category":"align","target":"c","action":"run","result":"reSuccess","expected":"\\i @'NIM_ALIGN(128) NI mylocal1' .*","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/align/talign.nim cpp","category":"align","target":"cpp","action":"run","result":"reSuccess","expected":"\\i @'NIM_ALIGN(128) NI mylocal1' .*","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/align/tillegalalign.nim c","category":"align","target":"c","action":"reject","result":"reSuccess","expected":"power of two expected","given":"power of two expected","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"}]

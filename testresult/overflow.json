@@ -1,0 +1,9 @@
+[
+{"name":"tests/overflow/tdistinct_range.nim c","category":"overflow","target":"c","action":"run","result":"reSuccess","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/overflow/toverflow.nim c --overflowChecks:off","category":"overflow","target":"c","action":"run","result":"reSuccess","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/overflow/toverflow.nim js --overflowChecks:off --b:js","category":"overflow","target":"js","action":"run","result":"reSuccess","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/overflow/toverflow2.nim c","category":"overflow","target":"c","action":"run","result":"reSuccess","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/overflow/toverflow_reorder.nim c","category":"overflow","target":"c","action":"run","result":"reSuccess","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/overflow/tovfint.nim c","category":"overflow","target":"c","action":"run","result":"reJoined","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/overflow/trangechecks.nim c","category":"overflow","target":"c","action":"run","result":"reJoined","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/overflow/twronginference.nim c","category":"overflow","target":"c","action":"reject","result":"reSuccess","expected":"cannot convert 256 to int8","given":"cannot convert 256 to int8","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"}]

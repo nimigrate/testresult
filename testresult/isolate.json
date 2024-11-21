@@ -1,0 +1,4 @@
+[
+{"name":"tests/isolate/tisolate.nim c","category":"isolate","target":"c","action":"reject","result":"reSuccess","expected":"expression cannot be isolated: select(a, b)","given":"expression cannot be isolated: select(a, b)","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/isolate/tisolate2.nim c","category":"isolate","target":"c","action":"reject","result":"reSuccess","expected":"expression cannot be isolated: a_to_b(a)","given":"expression cannot be isolated: a_to_b(a)","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/isolate/tisolated_lock.nim c","category":"isolate","target":"c","action":"compile","result":"reSuccess","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"}]

@@ -1,0 +1,8 @@
+[
+{"name":"tests/let/t7936.nim c","category":"let","target":"c","action":"run","result":"reJoined","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/let/timportc.nim c","category":"let","target":"c","action":"run","result":"reSuccess","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/let/timportc.nim cpp","category":"let","target":"cpp","action":"run","result":"reSuccess","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/let/timportc.nim js","category":"let","target":"js","action":"run","result":"reSuccess","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/let/timportc2.nim c","category":"let","target":"c","action":"reject","result":"reSuccess","expected":"'let' symbol requires an initialization","given":"'let' symbol requires an initialization","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/let/tlet.nim c","category":"let","target":"c","action":"reject","result":"reSuccess","expected":"'name' cannot be assigned to","given":"'name' cannot be assigned to","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/let/tlet2.nim c","category":"let","target":"c","action":"reject","result":"reSuccess","expected":"type mismatch: got <int literal(8), int literal(5), int, int>","given":"type mismatch: got <int literal(8), int literal(5), int, int>","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"}]

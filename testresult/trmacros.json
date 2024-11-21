@@ -1,0 +1,7 @@
+[
+{"name":"tests/trmacros/tdisallowif.nim c","category":"trmacros","target":"c","action":"reject","result":"reSuccess","expected":"usage of 'disallowIf' is an {.error.} defined at tdisallowif.nim(10, 1)","given":"usage of 'disallowIf' is an {.error.} defined at tdisallowif.nim(10, 1)","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/trmacros/tnorewrite.nim c","category":"trmacros","target":"c","action":"run","result":"reJoined","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/trmacros/tor.nim c","category":"trmacros","target":"c","action":"run","result":"reJoined","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/trmacros/trmacros_various.nim c","category":"trmacros","target":"c","action":"run","result":"reJoined","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/trmacros/trmacros_various2.nim c","category":"trmacros","target":"c","action":"run","result":"reJoined","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/trmacros/tstmtlist.nim c","category":"trmacros","target":"c","action":"run","result":"reJoined","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"}]

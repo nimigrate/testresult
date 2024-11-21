@@ -1,0 +1,2 @@
+[
+{"name":"tests/compilerapi/tcompilerapi.nim c","category":"compilerapi","target":"c","action":"run","result":"reSuccess","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"}]

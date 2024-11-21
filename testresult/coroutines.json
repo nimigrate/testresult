@@ -1,0 +1,9 @@
+[
+{"name":"tests/coroutines/texceptions.nim c","category":"coroutines","target":"c","action":"run","result":"reDisabled","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/coroutines/tgc.nim c --gc:refc","category":"coroutines","target":"c","action":"run","result":"reSuccess","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/coroutines/tgc.nim c --gc:arc","category":"coroutines","target":"c","action":"run","result":"reSuccess","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/coroutines/tgc.nim c --gc:orc","category":"coroutines","target":"c","action":"run","result":"reSuccess","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/coroutines/titerators.nim c","category":"coroutines","target":"c","action":"run","result":"reDisabled","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/coroutines/twait.nim c --gc:refc","category":"coroutines","target":"c","action":"run","result":"reSuccess","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/coroutines/twait.nim c --gc:arc","category":"coroutines","target":"c","action":"run","result":"reSuccess","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/coroutines/twait.nim c --gc:orc","category":"coroutines","target":"c","action":"run","result":"reSuccess","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"}]

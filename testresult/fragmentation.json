@@ -1,0 +1,3 @@
+[
+{"name":"tests/fragmentation/tfragment_alloc.nim c","category":"fragmentation","target":"c","action":"run","result":"reDisabled","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/fragmentation/tfragment_gc.nim c","category":"fragmentation","target":"c","action":"run","result":"reDisabled","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"}]

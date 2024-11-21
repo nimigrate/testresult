@@ -1,0 +1,3 @@
+[
+{"name":"tests/alias/t19349.nim c","category":"alias","target":"c","action":"compile","result":"reSuccess","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/alias/talias.nim c","category":"alias","target":"c","action":"run","result":"reJoined","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"}]

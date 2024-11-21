@@ -1,0 +1,3 @@
+[
+{"name":"tests/varstmt/tlet.nim c","category":"varstmt","target":"c","action":"run","result":"reJoined","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/varstmt/tvardecl.nim c","category":"varstmt","target":"c","action":"run","result":"reJoined","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"}]

@@ -1,0 +1,8 @@
+[
+{"name":"tests/views/t19986.nim c","category":"views","target":"c","action":"reject","result":"reSuccess","expected":"","given":"'foo' borrows from the immutable location 'a' and attempts to mutate it","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/views/tcan_compile_nim.nim c","category":"views","target":"c","action":"compile","result":"reSuccess","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/views/tcannot_borrow.nim c","category":"views","target":"c","action":"reject","result":"reSuccess","expected":"cannot borrow","given":"cannot borrow meh; what it borrows from is potentially mutated","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/views/tconst_views.nim c","category":"views","target":"c","action":"run","result":"reSuccess","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/views/tdont_mutate.nim c","category":"views","target":"c","action":"reject","result":"reSuccess","expected":"","given":"'y' borrows from the immutable location 'x' and attempts to mutate it","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/views/tmust_borrow_from_first_parameter.nim c","category":"views","target":"c","action":"reject","result":"reSuccess","expected":"'result' must borrow from the first parameter","given":"'result' must borrow from the first parameter","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"}
+]

@@ -1,0 +1,3 @@
+[
+{"name":"tests/package_level_objects/tusefoo.nim c","category":"package_level_objects","target":"c","action":"run","result":"reJoined","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/package_level_objects/tusefoo2.nim c","category":"package_level_objects","target":"c","action":"run","result":"reJoined","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"}]

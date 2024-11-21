@@ -1,0 +1,9 @@
+[
+{"name":"tests/specialops/tcallops.nim c","category":"specialops","target":"c","action":"run","result":"reJoined","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/specialops/tcallprecedence.nim c","category":"specialops","target":"c","action":"run","result":"reJoined","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/specialops/tdotops.nim c","category":"specialops","target":"c","action":"run","result":"reJoined","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/specialops/terrmsgs.nim c","category":"specialops","target":"c","action":"reject","result":"reSuccess","expected":"","given":"type mismatch: got <>","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/specialops/terrmsgs.nim c -d:testWithout","category":"specialops","target":"c","action":"reject","result":"reSuccess","expected":"","given":"type mismatch: got <>","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/specialops/terrmsgs.nim c --mm:refc","category":"specialops","target":"c","action":"reject","result":"reSuccess","expected":"","given":"type mismatch: got <>","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/specialops/tnewseq.nim c","category":"specialops","target":"c","action":"run","result":"reJoined","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"},
+{"name":"tests/specialops/tsetter.nim c","category":"specialops","target":"c","action":"run","result":"reJoined","expected":"","given":"","machine":"loongson-pc","commit":"26c5f97614d","branch":"lit-fix-objc-math"}]
