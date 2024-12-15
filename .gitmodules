@@ -1,2 +1,3 @@
 [submodule "parseTestamentJson"]
 	path = parseTestamentJson
+	url = git@github.com:nimigrate/parseTestamentJson
